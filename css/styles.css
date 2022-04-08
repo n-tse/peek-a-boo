@@ -3,8 +3,46 @@ img {
   height: auto;
 }
 
-.tabby-cat-showing {
+#tabby-cat-showing {
   display: none;
+}
+
+#lightMode {
+  display: none;
+}
+
+.btn {
+  float: right;
+}
+
+.gray-background {
+  background-color: gray;
+}
+
+.white-background {
+  background-color: white;
+}
+
+#Seattle-showing {
+  display: none;
+}
+
+.fadeOut {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.fadeOut:hover {
+  text-decoration: underline;
+}
+
+.fadeIn {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.fadeIn:hover {
+  text-decoration: underline;
 }
 
 .clickable {
